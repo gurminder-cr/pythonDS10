@@ -71,3 +71,6 @@ for i,j in enumerate(l):
 d={'name':'jaskaran','class':'btech','rollno':12,'isownapet':True} 
 for i,j in enumerate(d.items()):
     print(i,"-",j)
+
+
+print("Hello")
