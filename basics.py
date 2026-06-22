@@ -38,3 +38,5 @@ a=int(input("Enter a "))  # by default string input
 b=int(input("enter b "))
 # print("the value of a is",a)
 print(a+b)
+
+print("My name is jaskaran mai yeh add krr raha hoon")
